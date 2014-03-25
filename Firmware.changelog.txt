@@ -13,3 +13,7 @@ Changelog -> MUAS.Firmware.APM2.6
 - Annotated 'Commands' Scripts
 	- So we can actually look at the coding and understand what's happening in refernce to MP's inputs and the APM's translations.
 
+26/03/14: - J2
+- Uploaded firmware to GitHub
+
+
