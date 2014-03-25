@@ -1,0 +1,15 @@
+Changelog -> MUAS.Firmware.APM2.6
+
+16/03/14: - J2
+- Edited Geofence.pde
+	- Added GCS messages (4x) for Geofence Setup Failure Cases
+	- Removed GCS message from failed: goto
+- Edited Radio.pde
+	- Added failsafe GCS message for RC loss
+- Edited Failsafe.pde
+	- Added failsafe GCS message for lockup case
+
+16/03/14: - Sam
+- Annotated 'Commands' Scripts
+	- So we can actually look at the coding and understand what's happening in refernce to MP's inputs and the APM's translations.
+
